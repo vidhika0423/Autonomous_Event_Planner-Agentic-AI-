@@ -61,3 +61,12 @@ Deliver professional, personalized communication for every event — automatical
 ---
 
 **Autonomous\_Event\_Planner (Agentic AI):** Revolutionizing event planning through fully autonomous, multi-agent intelligence.
+
+
+
+**Visual Graph**:
+
+![EventPlannerGraph](https://github.com/user-attachments/assets/656c5f5a-8a29-4769-a63b-c9731904f11f)
+
+
+
